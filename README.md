@@ -4,10 +4,6 @@ The Airbnb clone project for which we are creating a copy of the [Airbnb](https:
 Only some features will be implemented and will be listed below once completed.
 
 
-## Features
-
-### Command Interpreter
-
 #### Description
 
 The Command Interpreter is used to manage the whole application's functionality from the command line, such as:
@@ -48,4 +44,3 @@ under the **test/** folder and can execute all of them by simply running:
 ```python3 -m unittest discover tests ```
 
 from the root directory.
-
